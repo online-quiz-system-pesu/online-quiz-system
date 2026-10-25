@@ -57,7 +57,7 @@ cp server/.env.example server/.env  # then put your MONGODB_URI and a JWT_SECRET
 Run the API and the web app in two terminals:
 
 ```bash
-npm run dev:server   # http://localhost:5000/api/health
+npm run dev:server   # http://localhost:5050/api/health
 npm run dev:client   # http://localhost:5173
 ```
 
